@@ -5,9 +5,6 @@ colorscheme solarized
 
 if has('gui_running')
   set guioptions-=T  "remove toolbar
-  "set gfn=Bitstream\ Vera\ Sans\ Mono:h13
-  "set gfn=Inconsolata-dz:h13
-  "set gfn=Inconsolata-dz:h17
 
   set macligatures
   set guifont=Fira\ Code:h13
