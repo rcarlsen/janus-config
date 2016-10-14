@@ -1,0 +1,5 @@
+let mapleader = ","
+
+"call janus#disable_plugin('supertab', "using a simpler function")
+call janus#disable_plugin('snipmate', "using UltiSnips for YouCompleteMe integration")
+call janus#disable_plugin('pydiction', "using youcomplete me + jedi")
