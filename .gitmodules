@@ -1,45 +1,45 @@
 [submodule "plugins/YouCompleteMe"]
 	path = plugins/YouCompleteMe
-	url = git://github.com/Valloric/YouCompleteMe.git
+	url = https://github.com/Valloric/YouCompleteMe.git
 [submodule "plugins/a.vim"]
 	path = plugins/a.vim
-	url = git://github.com/vim-scripts/a.vim.git
+	url = https://github.com/vim-scripts/a.vim.git
 [submodule "plugins/cocoa.vim"]
 	path = plugins/cocoa.vim
 	url = https://github.com/msanders/cocoa.vim
 [submodule "plugins/jekyll.vim"]
 	path = plugins/jekyll.vim
-	url = git://github.com/csexton/jekyll.vim.git
+	url = https://github.com/csexton/jekyll.vim.git
 [submodule "plugins/vim-octopress"]
 	path = plugins/vim-octopress
 	url = https://github.com/tangledhelix/vim-octopress.git
 [submodule "plugins/snipmate-snippets"]
 	path = plugins/snipmate-snippets
-	url = git://github.com/scrooloose/snipmate-snippets.git
+	url = https://github.com/scrooloose/snipmate-snippets.git
 [submodule "plugins/surround.vim"]
 	path = plugins/surround.vim
-	url = git://github.com/vim-scripts/surround.vim.git
+	url = https://github.com/vim-scripts/surround.vim.git
 [submodule "plugins/syntastic"]
 	path = plugins/syntastic
 	url = git@github.com:scrooloose/syntastic.git
 [submodule "plugins/taglist.vim"]
 	path = plugins/taglist.vim
-	url = git://github.com/vim-scripts/taglist.vim.git
+	url = https://github.com/vim-scripts/taglist.vim.git
 [submodule "plugins/ultisnips"]
 	path = plugins/ultisnips
-	url = git://github.com/SirVer/ultisnips.git
+	url = https://github.com/SirVer/ultisnips.git
 [submodule "plugins/vim-haml"]
 	path = plugins/vim-haml
 	url = https://github.com/tpope/vim-haml
 [submodule "plugins/vim-markdown"]
 	path = plugins/vim-markdown
-	url = git://github.com/tpope/vim-markdown.git
+	url = https://github.com/tpope/vim-markdown.git
 [submodule "plugins/vim-swift"]
 	path = plugins/vim-swift
-	url = git://github.com/toyamarinyon/vim-swift.git
+	url = https://github.com/toyamarinyon/vim-swift.git
 [submodule "plugins/vim-openscad"]
 	path = plugins/vim-openscad
 	url = git@github.com:rcarlsen/vim-openscad.git
 [submodule "plugins/vim-endwise"]
 	path = plugins/vim-endwise
-	url = git://github.com/tpope/vim-endwise.git
+	url = https://github.com/tpope/vim-endwise.git
