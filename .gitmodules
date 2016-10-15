@@ -21,7 +21,7 @@
 	url = https://github.com/vim-scripts/surround.vim.git
 [submodule "plugins/syntastic"]
 	path = plugins/syntastic
-	url = git@github.com:scrooloose/syntastic.git
+	url = https://github.com/scrooloose/syntastic.git
 [submodule "plugins/taglist.vim"]
 	path = plugins/taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim.git
@@ -39,7 +39,7 @@
 	url = https://github.com/toyamarinyon/vim-swift.git
 [submodule "plugins/vim-openscad"]
 	path = plugins/vim-openscad
-	url = git@github.com:rcarlsen/vim-openscad.git
+	url = https://github.com/rcarlsen/vim-openscad.git
 [submodule "plugins/vim-endwise"]
 	path = plugins/vim-endwise
 	url = https://github.com/tpope/vim-endwise.git
