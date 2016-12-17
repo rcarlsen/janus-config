@@ -43,3 +43,6 @@
 [submodule "plugins/vim-endwise"]
 	path = plugins/vim-endwise
 	url = https://github.com/tpope/vim-endwise.git
+[submodule "plugins/plantuml-syntax"]
+	path = plugins/plantuml-syntax
+	url = https://github.com/aklt/plantuml-syntax.git
